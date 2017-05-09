@@ -192,6 +192,8 @@ public class Hoja extends JPanel implements ActionListener, ItemListener{
         try {
             
         } catch (Exception e) {
+            
+                
         }
     }//constructor
 
